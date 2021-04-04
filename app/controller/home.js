@@ -4,7 +4,7 @@ class HomeController extends Controller {
     async index() {
         this.ctx.body = 'Hello world';
     }
-    // shdofh o
+    // shdofh oascascascascehich 
 }
 
 module.exports = HomeController;
