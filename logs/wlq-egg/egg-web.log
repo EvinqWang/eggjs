@@ -138,3 +138,87 @@
 2021-04-04 15:36:43,634 INFO 1627 [egg:core] dump config after load, 4ms
 2021-04-04 15:36:43,645 INFO 1627 [egg-watcher:application] watcher start success
 2021-04-04 15:36:43,650 INFO 1627 [egg:core] dump config after ready, 3ms
+2021-04-04 16:17:26,621 INFO 8394 [egg:logger] init all loggers with options: {"dir":"/home/wangliqiang/egg-example/logs/wlq-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wlq-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-04-04 16:17:26,648 INFO 8394 [egg-multipart] stream mode enable
+2021-04-04 16:17:26,709 INFO 8394 [egg-static] starting static serve /public/ -> /home/wangliqiang/egg-example/app/public
+2021-04-04 16:17:26,711 INFO 8394 [egg-security] use csrf middleware
+2021-04-04 16:17:26,712 INFO 8394 [egg-security] use methodnoallow middleware
+2021-04-04 16:17:26,712 INFO 8394 [egg-security] use noopen middleware
+2021-04-04 16:17:26,713 INFO 8394 [egg-security] use nosniff middleware
+2021-04-04 16:17:26,713 INFO 8394 [egg-security] use xssProtection middleware
+2021-04-04 16:17:26,713 INFO 8394 [egg-security] use xframe middleware
+2021-04-04 16:17:26,722 INFO 8394 [egg-security] use dta middleware
+2021-04-04 16:17:26,722 INFO 8394 [egg-security] compose 7 middlewares into one security middleware
+2021-04-04 16:17:26,736 INFO 8394 [egg:core] dump config after load, 10ms
+2021-04-04 16:17:26,748 INFO 8394 [egg-watcher:application] watcher start success
+2021-04-04 16:17:26,759 INFO 8394 [egg:core] dump config after ready, 9ms
+2021-04-04 16:17:26,928 INFO 8393 [egg:logger] init all loggers with options: {"dir":"/home/wangliqiang/egg-example/logs/wlq-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wlq-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-04-04 16:17:26,951 INFO 8393 [egg-multipart] stream mode enable
+2021-04-04 16:17:27,002 INFO 8393 [egg-static] starting static serve /public/ -> /home/wangliqiang/egg-example/app/public
+2021-04-04 16:17:27,004 INFO 8393 [egg-security] use csrf middleware
+2021-04-04 16:17:27,004 INFO 8393 [egg-security] use methodnoallow middleware
+2021-04-04 16:17:27,005 INFO 8393 [egg-security] use noopen middleware
+2021-04-04 16:17:27,005 INFO 8393 [egg-security] use nosniff middleware
+2021-04-04 16:17:27,005 INFO 8393 [egg-security] use xssProtection middleware
+2021-04-04 16:17:27,005 INFO 8393 [egg-security] use xframe middleware
+2021-04-04 16:17:27,006 INFO 8393 [egg-security] use dta middleware
+2021-04-04 16:17:27,006 INFO 8393 [egg-security] compose 7 middlewares into one security middleware
+2021-04-04 16:17:27,018 INFO 8393 [egg:core] dump config after load, 9ms
+2021-04-04 16:17:27,030 INFO 8393 [egg-watcher:application] watcher start success
+2021-04-04 16:17:27,036 INFO 8393 [egg:core] dump config after ready, 3ms
+2021-04-04 16:21:49,916 INFO 9515 [egg:logger] init all loggers with options: {"dir":"/home/wangliqiang/egg-example/logs/wlq-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wlq-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-04-04 16:21:49,944 INFO 9515 [egg-multipart] stream mode enable
+2021-04-04 16:21:50,025 INFO 9515 [egg-static] starting static serve /public/ -> /home/wangliqiang/egg-example/app/public
+2021-04-04 16:21:50,028 INFO 9515 [egg-security] use csrf middleware
+2021-04-04 16:21:50,028 INFO 9515 [egg-security] use methodnoallow middleware
+2021-04-04 16:21:50,029 INFO 9515 [egg-security] use noopen middleware
+2021-04-04 16:21:50,029 INFO 9515 [egg-security] use nosniff middleware
+2021-04-04 16:21:50,029 INFO 9515 [egg-security] use xssProtection middleware
+2021-04-04 16:21:50,030 INFO 9515 [egg-security] use xframe middleware
+2021-04-04 16:21:50,030 INFO 9515 [egg-security] use dta middleware
+2021-04-04 16:21:50,030 INFO 9515 [egg-security] compose 7 middlewares into one security middleware
+2021-04-04 16:21:50,041 INFO 9515 [egg:core] dump config after load, 7ms
+2021-04-04 16:21:50,056 INFO 9515 [egg-watcher:application] watcher start success
+2021-04-04 16:21:50,084 INFO 9515 [egg:core] dump config after ready, 20ms
+2021-04-04 16:21:49,927 INFO 9516 [egg:logger] init all loggers with options: {"dir":"/home/wangliqiang/egg-example/logs/wlq-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wlq-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-04-04 16:21:49,951 INFO 9516 [egg-multipart] stream mode enable
+2021-04-04 16:21:50,005 INFO 9516 [egg-static] starting static serve /public/ -> /home/wangliqiang/egg-example/app/public
+2021-04-04 16:21:50,007 INFO 9516 [egg-security] use csrf middleware
+2021-04-04 16:21:50,009 INFO 9516 [egg-security] use methodnoallow middleware
+2021-04-04 16:21:50,010 INFO 9516 [egg-security] use noopen middleware
+2021-04-04 16:21:50,010 INFO 9516 [egg-security] use nosniff middleware
+2021-04-04 16:21:50,010 INFO 9516 [egg-security] use xssProtection middleware
+2021-04-04 16:21:50,011 INFO 9516 [egg-security] use xframe middleware
+2021-04-04 16:21:50,011 INFO 9516 [egg-security] use dta middleware
+2021-04-04 16:21:50,011 INFO 9516 [egg-security] compose 7 middlewares into one security middleware
+2021-04-04 16:21:50,030 INFO 9516 [egg:core] dump config after load, 16ms
+2021-04-04 16:21:50,048 INFO 9516 [egg-watcher:application] watcher start success
+2021-04-04 16:21:50,062 INFO 9516 [egg:core] dump config after ready, 11ms
+2021-04-04 16:21:51,132 INFO 9556 [egg:logger] init all loggers with options: {"dir":"/home/wangliqiang/egg-example/logs/wlq-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wlq-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-04-04 16:21:51,189 INFO 9556 [egg-multipart] stream mode enable
+2021-04-04 16:21:51,327 INFO 9556 [egg-static] starting static serve /public/ -> /home/wangliqiang/egg-example/app/public
+2021-04-04 16:21:51,329 INFO 9556 [egg-security] use csrf middleware
+2021-04-04 16:21:51,330 INFO 9556 [egg-security] use methodnoallow middleware
+2021-04-04 16:21:51,330 INFO 9556 [egg-security] use noopen middleware
+2021-04-04 16:21:51,330 INFO 9556 [egg-security] use nosniff middleware
+2021-04-04 16:21:51,331 INFO 9556 [egg-security] use xssProtection middleware
+2021-04-04 16:21:51,331 INFO 9556 [egg-security] use xframe middleware
+2021-04-04 16:21:51,331 INFO 9556 [egg-security] use dta middleware
+2021-04-04 16:21:51,331 INFO 9556 [egg-security] compose 7 middlewares into one security middleware
+2021-04-04 16:21:51,351 INFO 9556 [egg:core] dump config after load, 13ms
+2021-04-04 16:21:51,377 INFO 9556 [egg-watcher:application] watcher start success
+2021-04-04 16:21:51,384 INFO 9556 [egg:core] dump config after ready, 4ms
+2021-04-04 16:21:51,387 INFO 9551 [egg:logger] init all loggers with options: {"dir":"/home/wangliqiang/egg-example/logs/wlq-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wlq-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-04-04 16:21:51,412 INFO 9551 [egg-multipart] stream mode enable
+2021-04-04 16:21:51,467 INFO 9551 [egg-static] starting static serve /public/ -> /home/wangliqiang/egg-example/app/public
+2021-04-04 16:21:51,470 INFO 9551 [egg-security] use csrf middleware
+2021-04-04 16:21:51,470 INFO 9551 [egg-security] use methodnoallow middleware
+2021-04-04 16:21:51,470 INFO 9551 [egg-security] use noopen middleware
+2021-04-04 16:21:51,471 INFO 9551 [egg-security] use nosniff middleware
+2021-04-04 16:21:51,471 INFO 9551 [egg-security] use xssProtection middleware
+2021-04-04 16:21:51,471 INFO 9551 [egg-security] use xframe middleware
+2021-04-04 16:21:51,473 INFO 9551 [egg-security] use dta middleware
+2021-04-04 16:21:51,473 INFO 9551 [egg-security] compose 7 middlewares into one security middleware
+2021-04-04 16:21:51,485 INFO 9551 [egg:core] dump config after load, 8ms
+2021-04-04 16:21:51,497 INFO 9551 [egg-watcher:application] watcher start success
+2021-04-04 16:21:51,502 INFO 9551 [egg:core] dump config after ready, 3ms
