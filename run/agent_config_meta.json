@@ -1,0 +1,266 @@
+{
+  "keys": "/home/wangliqiang/egg-example/config/config.default.js",
+  "session": {
+    "maxAge": "/home/wangliqiang/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/home/wangliqiang/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/home/wangliqiang/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/home/wangliqiang/egg-example/node_modules/egg-session/config/config.default.js",
+    "logValue": "/home/wangliqiang/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "type": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/home/wangliqiang/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/home/wangliqiang/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/home/wangliqiang/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/home/wangliqiang/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/home/wangliqiang/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/home/wangliqiang/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/home/wangliqiang/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/home/wangliqiang/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/home/wangliqiang/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/home/wangliqiang/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/home/wangliqiang/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/home/wangliqiang/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/home/wangliqiang/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/home/wangliqiang/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/home/wangliqiang/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/home/wangliqiang/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/home/wangliqiang/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/home/wangliqiang/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/home/wangliqiang/egg-example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/home/wangliqiang/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/home/wangliqiang/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/home/wangliqiang/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/home/wangliqiang/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/home/wangliqiang/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/home/wangliqiang/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/home/wangliqiang/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/home/wangliqiang/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/home/wangliqiang/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/home/wangliqiang/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/home/wangliqiang/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/home/wangliqiang/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/home/wangliqiang/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/home/wangliqiang/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/home/wangliqiang/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/home/wangliqiang/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/home/wangliqiang/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/home/wangliqiang/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/home/wangliqiang/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/home/wangliqiang/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/home/wangliqiang/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/home/wangliqiang/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/home/wangliqiang/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/home/wangliqiang/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/home/wangliqiang/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/home/wangliqiang/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/home/wangliqiang/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/home/wangliqiang/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/home/wangliqiang/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/home/wangliqiang/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/home/wangliqiang/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/home/wangliqiang/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/home/wangliqiang/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/home/wangliqiang/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/home/wangliqiang/egg-example/node_modules/egg-view/config/config.default.js",
+    "mapping": "/home/wangliqiang/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "cookies": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "main": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "textLimit": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/home/wangliqiang/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/home/wangliqiang/egg-example/node_modules/egg/config/config.default.js"
+}
