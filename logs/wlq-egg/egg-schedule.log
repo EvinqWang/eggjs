@@ -70,3 +70,81 @@
 2021-04-04 16:42:25,594 INFO 13307 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
 2021-04-04 16:42:25,594 INFO 13307 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
 2021-04-04 16:42:25,594 INFO 13307 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 16:57:52,349 INFO 16082 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 16:57:52,349 INFO 16082 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 16:57:52,349 INFO 16082 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 16:57:52,485 INFO 16083 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 16:57:52,485 INFO 16083 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 16:57:52,485 INFO 16083 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:23:03,871 INFO 23343 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:23:03,871 INFO 23343 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:23:03,871 INFO 23343 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:23:03,897 INFO 23342 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:23:03,897 INFO 23342 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:23:03,897 INFO 23342 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:23:05,132 INFO 23383 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:23:05,132 INFO 23383 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:23:05,132 INFO 23383 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:23:05,314 INFO 23382 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:23:05,314 INFO 23382 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:23:05,314 INFO 23382 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:32:34,841 INFO 4241 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:32:34,841 INFO 4241 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:32:34,841 INFO 4241 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:32:35,048 INFO 4231 [Timer] /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39444955ms at 2021-04-05 04:30:00.003
+2021-04-04 17:32:35,048 INFO 4231 [Timer] /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23244952ms at 2021-04-05 00:00:00.000
+2021-04-04 17:32:35,049 INFO 4231 [Timer] /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23245952ms at 2021-04-05 00:00:01.001
+2021-04-04 17:33:11,993 INFO 4361 [Timer] /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39408010ms at 2021-04-05 04:30:00.003
+2021-04-04 17:33:11,993 INFO 4361 [Timer] /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23208007ms at 2021-04-05 00:00:00.000
+2021-04-04 17:33:11,994 INFO 4361 [Timer] /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23209007ms at 2021-04-05 00:00:01.001
+2021-04-04 17:33:11,896 INFO 4371 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:33:11,896 INFO 4371 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:33:11,896 INFO 4371 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:34:41,299 INFO 5106 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:34:41,299 INFO 5106 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:34:41,299 INFO 5106 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:34:41,408 INFO 5088 [Timer] /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39318595ms at 2021-04-05 04:30:00.003
+2021-04-04 17:34:41,408 INFO 5088 [Timer] /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23118592ms at 2021-04-05 00:00:00.000
+2021-04-04 17:34:41,408 INFO 5088 [Timer] /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23119592ms at 2021-04-05 00:00:01.000
+2021-04-04 17:35:06,952 INFO 5274 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:35:06,952 INFO 5274 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:35:06,952 INFO 5274 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:35:07,106 INFO 5273 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:35:07,106 INFO 5273 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:35:07,106 INFO 5273 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:35:33,287 INFO 5435 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:35:33,287 INFO 5435 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:35:33,287 INFO 5435 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:35:33,300 INFO 5436 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:35:33,300 INFO 5436 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:35:33,300 INFO 5436 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:36:29,729 INFO 5786 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:36:29,729 INFO 5786 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:36:29,729 INFO 5786 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:36:29,807 INFO 5787 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:36:29,807 INFO 5787 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:36:29,807 INFO 5787 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:38:01,509 INFO 6284 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:38:01,509 INFO 6284 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:38:01,509 INFO 6284 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:38:01,781 INFO 6285 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:38:01,781 INFO 6285 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:38:01,781 INFO 6285 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:38:27,613 INFO 6478 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:38:27,613 INFO 6478 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:38:27,613 INFO 6478 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:38:27,674 INFO 6477 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:38:27,674 INFO 6477 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:38:27,674 INFO 6477 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:47:34,862 INFO 11238 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:47:34,862 INFO 11238 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:47:34,862 INFO 11238 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:47:34,917 INFO 11237 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:47:34,917 INFO 11237 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:47:34,917 INFO 11237 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:47:36,191 INFO 11296 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:47:36,191 INFO 11296 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:47:36,191 INFO 11296 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-04-04 17:47:36,211 INFO 11301 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-04-04 17:47:36,211 INFO 11301 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-04-04 17:47:36,211 INFO 11301 [egg-schedule]: register schedule /home/wangliqiang/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
